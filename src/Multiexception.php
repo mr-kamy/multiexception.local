@@ -2,7 +2,6 @@
 
 namespace kamc\multiexception\src;
 
-
 class Multiexception extends \Exception
 {
     protected $errors = [];
