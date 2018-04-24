@@ -1,6 +1,6 @@
 <?php
 
-namespace kamc\multiexception\src;
+namespace kamc\multiexception;
 
 class Multiexception extends \Exception
 {
