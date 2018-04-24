@@ -1,0 +1,12 @@
+{
+  "name": "kamc/multiexception",
+  "description": "This a test package",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "kamc\\multiexception\\": "src/"
+    }
+  }
+}
