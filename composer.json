@@ -1,12 +1,19 @@
 {
   "name": "kamc/multiexception",
+  "type": "library",
   "description": "This a test package",
+  "authors": [
+    {
+      "name": "Aleksey Kalugin",
+      "email": "mr.kamc@gmail.com"
+    }
+  ],
   "require": {
-    "php": ">=7.0.0"
+    "php": ">=7.0"
   },
   "autoload": {
     "psr-4": {
-      "kamc\\multiexception\\": "src/"
+      "Kamc\\MultiException\\": "src/"
     }
   }
 }

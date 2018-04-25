@@ -1,8 +1,8 @@
 <?php
 
-namespace kamc\multiexception;
+namespace Kamc\MultiException;
 
-class Multiexception extends \Exception
+class MultiException extends \Exception
 {
     protected $errors = [];
 
